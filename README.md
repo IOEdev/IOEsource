@@ -1,7 +1,7 @@
 
 
 
-IOE is a POW/PSS-based cryptocurrency.
+IOE is a POW/POS-based cryptocurrency.
 
 Development process
 ===========================
