@@ -41,5 +41,3 @@ Min. stake age: 1 hour
 Max. stake age: unlimited
 
 IOE Blockchain Explorer: https://chainz.cryptoid.info/ioe/
-
-SOCIAL: https://www.facebook.com/IOEcoin/
