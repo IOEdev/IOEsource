@@ -2,11 +2,10 @@
 <ui version="4.0">
  <class>OverviewPage</class>
  <widget class="QWidget" name="OverviewPage">
-  <property name="geometry">
-   <rect>
-    <x>0</x>
-    <y>0</y>
-    <width>573</width>
+  +  <property name="geometry">IOE<rect> 
++   <y>0</y>   
++   <y>0</y>
++  <width>573</width>
     <height>342</height>
    </rect>
   </property>
