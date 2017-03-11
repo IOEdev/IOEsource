@@ -8,7 +8,7 @@ IOE coin is an open source peer-to-peer cryptocurrency. Internet of everything (
 
 We are a group of freelancers who decided to start-up the project with a focus on Internet of Things. We are working on several smart devices sollutions. Smartshop focused on IOT devices will be launched in December 2016. You will be able to send you IOE coins in IOT smart devices.
 
-Startup is a beginning stage of a company which is more focused towards problem-solving than profit making, It is a stage where the ‘Ideas’ in the brain takes a shape, i.e. Execution of an Idea. Of course, profit making is one of the important objectives, but startups are more focused towards the solutions to a problem.
+Startup is a beginning stage of a company which is more focused towards problem-solving than profit making, It is a stage where the good in the brain takes a shape, i.e. Execution of an Idea. Of course, profit making is one of the important objectives, but startups are more focused towards the solutions to a problem.
 
 The key point that will make IOE the top crypto currency next to Bitcoin is the market with Internet of things devices.
 
@@ -39,3 +39,6 @@ Transaction confirmations: 6 blocks
 Min. stake age: 1 hour
 
 Max. stake age: unlimited
+
+
+IOE Blockchain Explorer: https://chainz.cryptoid.info/ioe/
