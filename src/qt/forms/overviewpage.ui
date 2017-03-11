@@ -18,7 +18,7 @@
     <layout class="QVBoxLayout" name="verticalLayout_2">
      <item>
       <widget class="QFrame" name="frame">
-       <property name="frameShape">
+       <property name="frameShape"> 
         <enum>QFrame::StyledPanel</enum>
        </property>
        <property name="frameShadow">
@@ -119,7 +119,7 @@
         <item>
          <widget class="QLabel" name="labelWalletStatus">
           <property name="toolTip">
-           <string>The displayed information may be out of date. Your wallet automatically synchronizes with the bitconnect network after a connection is established, but this process has not completed yet.</string>
+           <string>The displayed information may be out of date. Your wallet automatically synchronizes with the ioe network after a connection is established, but this process has not completed yet.</string>
           </property>
           <property name="styleSheet">
            <string notr="true">QLabel { color: red; }</string>
