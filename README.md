@@ -39,3 +39,6 @@ Transaction confirmations: 6 blocks
 Min. stake age: 1 hour
 
 Max. stake age: unlimited
+
+
+IOE Blockchain Explorer: https://chainz.cryptoid.info/ioe/
