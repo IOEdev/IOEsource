@@ -21,6 +21,16 @@ qrc_*.cpp
 *.pro.user
 #mac specific
 .DS_Store
-build
-
+build_config.mk
+*.a
+*.o
+*.dylib*
+*.so
+*.so.*
+*_test
+db_bench
+Release
+Debug
+Benchmark
+vs2010.*
 !src/leveldb/Makefile
