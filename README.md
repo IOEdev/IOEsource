@@ -42,7 +42,5 @@ Max. stake age: unlimited
 
 
 IOE Blockchain Explorer: https://chainz.cryptoid.info/ioe/
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/master
+THANKS ALL JOIN US 
